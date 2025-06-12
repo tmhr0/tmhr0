@@ -50,14 +50,11 @@
 <tr>
 <td width="50%" align="center" valign="top">
 
-### 📱  **Mobile Development**
-<img src="https://skillicons.dev/icons?i=flutter" />
-
 ### ☁️  **Backend as a Service (BaaS)**
 <img src="https://skillicons.dev/icons?i=supabase" />
 
 ### 🔧  **Development Tools**
-<img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,postman" />
+<img src="https://skillicons.dev/icons?i=vscode,github,gitlab,postman,notion,figma,wordpress" />
 
 </td>
 <td width="50%" align="center" valign="top">
@@ -65,11 +62,8 @@
 ### 🗄️  **Database**
 <img src="https://skillicons.dev/icons?i=postgresql,mysql" />
 
-### 🎨  **Design**
-<img src="https://skillicons.dev/icons?i=figma,xd" />
-
 ### 💻  **Languages & Frameworks**
-<img src="https://skillicons.dev/icons?i=ruby,rails,js,ts,html,css" />
+<img src="https://skillicons.dev/icons?i=ruby,rails,php,laravel,js,ts,html,css" />
 
 </td>
 </tr>
